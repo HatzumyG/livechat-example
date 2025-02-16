@@ -16,7 +16,7 @@ body {
 }
 
 .mainBody header {
-  background: #read;
+  background: red;
 }
 
 .mainBody .sidebar {
